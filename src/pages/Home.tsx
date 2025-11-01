@@ -16,7 +16,6 @@ const Home: React.FC = () => {
    <Roommessage/>
    <About/>
    <OurFacility/>
-    <Contact/>  
    <Footer/>
    </>
       
