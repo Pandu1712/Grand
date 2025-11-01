@@ -4,7 +4,7 @@ import RoomWelcome from "../components/RoomWelcome";
 import Roommessage from "../components/Roommessage";
 import OurFacility from "../components/OurFacility";
 import Footer from "../components/Bottom";
-
+import ContactPage from "../components/ConInfo";
 import About from "../components/About";
 
 
@@ -16,6 +16,7 @@ const Home: React.FC = () => {
    <Roommessage/>
    <About/>
    <OurFacility/>
+   <ContactPage/>
 <Footer/>
    </>
       
