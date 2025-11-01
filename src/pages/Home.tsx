@@ -3,8 +3,9 @@ import ImageCarousel from "../components/ImageCarousel";
 import RoomWelcome from "../components/RoomWelcome";
 import Roommessage from "../components/Roommessage";
 import OurFacility from "../components/OurFacility";
-import Contact from "../components/contact";
 import Footer from "../components/Footer";
+import Contact from "../components/ContInfo";
+
 
 const Home: React.FC = () => {
   return (
@@ -13,7 +14,7 @@ const Home: React.FC = () => {
    <RoomWelcome/>
    <Roommessage/>
    <OurFacility/>
-<Contact/>
+    <Contact/>  
    <Footer/>
    </>
       
