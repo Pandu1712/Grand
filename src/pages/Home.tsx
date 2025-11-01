@@ -4,7 +4,7 @@ import RoomWelcome from "../components/RoomWelcome";
 import Roommessage from "../components/Roommessage";
 import OurFacility from "../components/OurFacility";
 import Footer from "../components/Footer";
-import Contact from "../components/ContInfo";
+
 import About from "../components/About";
 
 
